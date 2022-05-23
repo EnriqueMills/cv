@@ -1,0 +1,39 @@
+/********************* Tag Selectors **********************/
+body {
+  background-color: #ceddef;
+}
+
+hr {
+  border-color: #020438;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 8%;
+}
+
+h1 {
+  color: #070d59;
+}
+
+h3 {
+  color: #070d59;
+}
+
+img {
+
+  height: 50%;
+  border-radius:50%;
+
+}
+
+/********************* Class Selectors **********************/
+
+.circularImage  {
+  border-radius:50%;
+}
+
+
+
+
+
+/********************* ID Selectors **********************/
